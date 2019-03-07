@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1546012658 source:c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\partb\phonebook.cpp
+	"PhoneBook.h"
+
+1545925876 source:c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\partb\phone.cpp
+	"Phone.h"
+
+1545924756 c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\partb\phone.h
+
+1546012741 source:c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\partb\test.cpp
+	<iostream>
+	"PhoneBook.h"
+
+1545926298 c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\partb\phonebook.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1545928896 c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\partb\person.h
+	<string>
+	<iostream>
+	"Phone.h"
+
+1546011848 source:c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\partb\person.cpp
+	"Person.h"
+

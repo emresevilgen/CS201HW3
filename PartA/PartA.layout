@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Test.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2143" topLine="68" />
+		</Cursor>
+	</File>
+	<File name="SimplePerson.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="328" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="8" />
+			<Collapse line="12" />
+			<Collapse line="16" />
+		</Folding>
+	</File>
+	<File name="SimplePhoneBook.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="30" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="7" />
+			<Collapse line="12" />
+			<Collapse line="31" />
+			<Collapse line="79" />
+			<Collapse line="105" />
+			<Collapse line="172" />
+			<Collapse line="185" />
+		</Folding>
+	</File>
+	<File name="SimplePhoneBook.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="602" topLine="10" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

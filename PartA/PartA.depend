@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1545925855 source:c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\parta\simpleperson.cpp
+	"SimplePerson.h"
+
+1545570004 c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\parta\simpleperson.h
+	<string>
+
+1546005003 source:c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\parta\simplephonebook.cpp
+	"SimplePhoneBook.h"
+	<cstddef>
+
+1545924171 c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\parta\simplephonebook.h
+	<string>
+	<iostream>
+	"SimplePerson.h"
+
+1546005041 source:c:\google drive\lessons\university\3rd semester\cs 201\homeworks\homework 3\parta\test.cpp
+	<iostream>
+	"SimplePhoneBook.h"
+
